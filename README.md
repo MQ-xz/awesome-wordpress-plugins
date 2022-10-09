@@ -1,5 +1,5 @@
 # Awesome WordPress plugins
-[![Awesome](https://awesome.re/badge-flat2.svg/?utm_source=awesome_repo)](https://awesome.re/?utm_source=awesome_repo)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Awesome list of free WordPress plugins
 
