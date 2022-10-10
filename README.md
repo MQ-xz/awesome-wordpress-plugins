@@ -4,7 +4,7 @@
 Awesome list of free WordPress plugins
 
 ## Checkout Field Editor (Checkout Manager) for WooCommerce
-WooCommerce Checkout Field Editor (Checkout Manager/?utm_source=awesome_repo) Plugin lets you add 20 different types of custom checkout fields to your Checkout page, blended with a simple and user-friendly interface.
+WooCommerce Checkout Field Editor (Checkout Manager) Plugin lets you add 20 different types of custom checkout fields to your Checkout page, blended with a simple and user-friendly interface.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=awesome_repo)
  - Latest version : 1.7.2
@@ -14,7 +14,7 @@ WooCommerce Checkout Field Editor (Checkout Manager/?utm_source=awesome_repo) Pl
 [Download](https://wordpress.org/plugins/woo-checkout-field-editor-pro/?utm_source=awesome_repo) | [Try Demo](https://flydemos.com/wcfe/?utm_source=awesome_repo) | [Documentation](https://www.themehigh.com/docs/category/checkout-field-editor-for-woocommerce/?utm_source=awesome_repo) | [Official site](https://www.themehigh.com/product/woocommerce-checkout-field-editor-pro/?utm_source=awesome_repo)
 
 ## Extra product options For WooCommerce | Custom Product Addons and Fields
-The WooCommerce Extra Product Options (WooCommerce Product Addons/?utm_source=awesome_repo) plugin lets you add custom product fields(19 field types/?utm_source=awesome_repo) and sections to your product page, making your WooCommerce product page more functional.
+The WooCommerce Extra Product Options (WooCommerce Product Addons) plugin lets you add custom product fields(19 field types) and sections to your product page, making your WooCommerce product page more functional.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=awesome_repo)
  - Latest version : 3.1.7
@@ -44,7 +44,7 @@ The WooCommerce Email Customizer plugin lets you customize your transactional em
 [Download](https://wordpress.org/plugins/email-customizer-for-woocommerce/?utm_source=awesome_repo) | [Try Demo](https://flydemos.com/wecm/?utm_source=awesome_repo) | [Documentation](https://www.themehigh.com/docs/category/email-customizer-for-woocommerce/?utm_source=awesome_repo) | [Official site](https://www.themehigh.com/product/woocommerce-email-customizer/?utm_source=awesome_repo)
 
 ## Variation Swatches for WooCommerce
-WooCommerce Variation Swatches plugin enables you to convert default WooCommerce product attribute drop-downs into stylish swatches. This fantastic plugin helps you exhibit product variants (based on color, size, texture, etc./?utm_source=awesome_repo) in style, assisting customers to choose their preferred variant quickly.
+WooCommerce Variation Swatches plugin enables you to convert default WooCommerce product attribute drop-downs into stylish swatches. This fantastic plugin helps you exhibit product variants (based on color, size, texture, etc.) in style, assisting customers to choose their preferred variant quickly.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=awesome_repo)
  - Latest version : 2.3.0
