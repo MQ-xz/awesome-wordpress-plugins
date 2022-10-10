@@ -3,7 +3,7 @@
 
 Awesome list of free WordPress plugins
 
-## Checkout Field Editor (Checkout Manager/?utm_source=awesome_repo) for WooCommerce
+## Checkout Field Editor (Checkout Manager) for WooCommerce
 WooCommerce Checkout Field Editor (Checkout Manager/?utm_source=awesome_repo) Plugin lets you add 20 different types of custom checkout fields to your Checkout page, blended with a simple and user-friendly interface.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=awesome_repo)
@@ -53,7 +53,7 @@ WooCommerce Variation Swatches plugin enables you to convert default WooCommerce
 
 [Download](https://wordpress.org/plugins/product-variation-swatches-for-woocommerce/?utm_source=awesome_repo) | [Try Demo](https://flydemos.com/wpvs/?utm_source=awesome_repo) | [Documentation](https://www.themehigh.com/docs/category/variation-swatches-for-woocommerce/?utm_source=awesome_repo) | [Official site](https://www.themehigh.com/product/woocommerce-product-variation-swatches/?utm_source=awesome_repo)
 
-## Multiple Shipping Addresses for WooCommerce (Address Book/?utm_source=awesome_repo)
+## Multiple Shipping Addresses for WooCommerce (Address Book)
 Shopping from one address and shipping to another is commonplace these days, but shopping from one address and delivering multiple items to different addresses in a single purchase is a boon.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=awesome_repo)
